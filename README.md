@@ -34,11 +34,15 @@ OR
 **student*
 
 ![Screenshot from 2021-10-08 01-37-18](https://user-images.githubusercontent.com/49567393/136480513-35fcaaf9-f158-4f93-84af-ff967f10e586.png)
+
+
 **pooler*
 
 ![Screenshot from 2021-10-08 01-39-44](https://user-images.githubusercontent.com/49567393/136480622-d9987594-118c-4bd1-8b64-b2b18578ea7a.png)
 
 # Checkout **owner*
+
 # All based on [1337-readme](https://1337-readme.vercel.app/)
+
 # If you liked our work considering giving it a ![image](https://user-images.githubusercontent.com/49567393/134269471-c8a59e6e-b148-48d6-a9a2-d2e35a6f9bf1.png).
 ![image](https://user-images.githubusercontent.com/49567393/134269837-da35528d-9112-4542-ac3e-ac485df58ad6.png)
