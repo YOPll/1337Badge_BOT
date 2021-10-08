@@ -1,5 +1,5 @@
 # 1337Badge_BOT
-This discord bot preview user 42intra login picture.
+This discord bot preview 42Network student and poolers progress in a form of a badge.
 # created by: @YOPI#8626
 
 # Using:
