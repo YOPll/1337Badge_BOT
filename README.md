@@ -40,7 +40,7 @@ OR
 
 ![Screenshot from 2021-10-08 01-39-44](https://user-images.githubusercontent.com/49567393/136480622-d9987594-118c-4bd1-8b64-b2b18578ea7a.png)
 
-# Checkout **owner*
+# Check out **owner*
 
 # All based on [1337-readme](https://1337-readme.vercel.app/)
 
